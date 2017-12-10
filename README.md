@@ -2,9 +2,9 @@
 <b>Easy Way to download all video lectures of a paid udemy course in Windows.</b>
 <br>You will need-
 
-<br<ref="https://pypi.python.org/pypi/pip">pip</a>
+<br><a href="https://pypi.python.org/pypi/pip">pip</a>
 
-<br>ref="https://www.python.org/downloads/">python</a><br>
+<br><a href="https://www.python.org/downloads/">python</a><br>
 
 Steps-(Run the commands in Command Prompt with admin privileges)
 
