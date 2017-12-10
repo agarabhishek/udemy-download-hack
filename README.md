@@ -5,7 +5,6 @@
 <br><a href="https://www.python.org/downloads/">python</a><br>
 
 Steps-(Run the commands in Command Prompt with admin privileges)
-
 <br>pip install youtube-dl
 <br>youtube-dl -u "xxxxxx@gmail.com" -p "xxxxxxx" URLofYourCourse(Content Page)
 <br> For Example-
